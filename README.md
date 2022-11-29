@@ -32,6 +32,7 @@ The country names in the map will act as the trigger
 
 Create a KPI Table to show the comparison between the selected period and the period prior to the selected one
 
+
 Create two parameters for Year Selection and Category Selection
 
 Category parameter includes life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio

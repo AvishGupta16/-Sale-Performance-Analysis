@@ -1,4 +1,4 @@
-# Sale-Performance-Analysis
+# Sales-Performance-Analysis
 
 # Overview
 Analysis of Sales with respect to Sales Target of Super Market Store using Tableau Desktop
